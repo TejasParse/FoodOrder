@@ -1,0 +1,11 @@
+#about {
+    margin-left: 30%;
+    margin-right: 30%;
+ 
+}
+
+.mainContainer {
+    background-image: url("../../bg_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

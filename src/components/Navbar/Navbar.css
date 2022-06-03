@@ -1,0 +1,9 @@
+#CartContainer {
+    background-color: rgb(181, 0, 0);
+}
+#CartContainer:hover {
+    cursor: pointer;
+}
+.title {
+    display: inline-block;
+}

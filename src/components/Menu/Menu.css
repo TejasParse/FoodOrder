@@ -1,0 +1,12 @@
+.price {
+    color: rgb(195, 0, 0);
+}
+
+.amount {
+    width: 40px;
+    margin-left: 5px;
+}
+
+#menu-hr {
+    color: white;
+}

@@ -1,0 +1,14 @@
+.price {
+    color: rgb(195, 0, 0);
+}
+
+.amount {
+    width: 40px;
+    margin-left: 5px;
+}
+
+.dishImage {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
