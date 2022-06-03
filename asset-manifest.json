@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodOrder/static/css/main.3ac075dd.css",
+    "main.js": "/FoodOrder/static/js/main.f106e672.js",
+    "static/media/tomato_logo.png": "/FoodOrder/static/media/tomato_logo.7034bbcb2de0a204ed78.png",
+    "static/media/bg_image.jpg": "/FoodOrder/static/media/bg_image.c1f8fdbb00d2eb04abc7.jpg",
+    "index.html": "/FoodOrder/index.html",
+    "main.3ac075dd.css.map": "/FoodOrder/static/css/main.3ac075dd.css.map",
+    "main.f106e672.js.map": "/FoodOrder/static/js/main.f106e672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac075dd.css",
+    "static/js/main.f106e672.js"
+  ]
+}
