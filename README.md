@@ -1,3 +1,8 @@
+This is a React project using which you can order food and get it delivered. Although only a little part of it is done, it really does show my ability to create react projects. Future plan is to create a backend and fully functional website.
+
+Use the website using this [Link](https://tejasparse.github.io/FoodOrder/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
